@@ -23,15 +23,15 @@
         border-collapse: collapse;
     }
     th, td {
-        border: 1px solid #580404;
+        border: 1px solid #880303;
         padding: 8px;
         text-align: left;
     }
     th {
-        background-color: #660909;
+        background-color: #880303;
     }
     tr:nth-child(even) {
-        background-color: #5c0707;
+        background-color: #880303;
     }
     h1{
         text-align: center;
