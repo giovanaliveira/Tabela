@@ -1,12 +1,12 @@
 .a {
-    background-color:#0003bd;
+    background-color:#0077ff;
     padding: 20px;
     text-align: center;
   }
   button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #0003bd;
+    background-color: #0077ff;
     color: #f8f8f8;
     border: none;
     border-radius: 5px;
@@ -23,15 +23,15 @@
         border-collapse: collapse;
     }
     th, td {
-        border: 1px solid #0003bd;
+        border: 1px solid #0077ff;
         padding: 8px;
         text-align: left;
     }
     th {
-        background-color: #0003bd;
+        background-color: #0077ff;
     }
     tr:nth-child(even) {
-        background-color: #0003bd;
+        background-color: #0077ff;
     }
     h1{
         text-align: center;
